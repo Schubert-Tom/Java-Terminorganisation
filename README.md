@@ -6,7 +6,7 @@ This is an organisation program where you can create and organize meetings with 
 There are no databases implementet.
 
 
-At the beginning you just got a an admin-user from which you can create different accounts manage a school system....
+At the beginning you just got a an admin-user from which you can create different accounts, manage a meetings....
 
 
 Its just a prototype and not completly done yet.
