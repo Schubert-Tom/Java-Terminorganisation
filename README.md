@@ -11,5 +11,5 @@ At the beginning you just got a an admin-user from which you can create differen
 
 Its just a prototype and not completly done yet.
 
-There is also a documentation @docs
+There is also a documentation @doc
 
